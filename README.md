@@ -2,7 +2,7 @@
 
 A simple maze game in Flutter. It also serves as a CustomPainter example.
 
-<img src="https://github.com/robin0319/FL_MAZE-GAME/tree/main/img/maze.png" height="350">
+<img src="https://github.com/robin0319/FL_MAZE-GAME/blob/main/img/maze.png" height="350">
 
 ## Maze package
 
